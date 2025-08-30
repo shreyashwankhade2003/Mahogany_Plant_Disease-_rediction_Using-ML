@@ -71,7 +71,7 @@ Future improvements planned with transfer learning (ResNet, MobileNet, VGG16).
 
 🚀 Future Scope
 
-Build a larger mahogany-specific dataset.
+Build a larger mahogany-specific dataset. 
 
 Improve accuracy using transfer learning & ensemble methods.
 
